@@ -1,5 +1,5 @@
 💻 Laptop Request Catalog Item - ServiceNow Project
-demo video link - https://github.com/adhirajj2307/Laptop-Request-Catalog-Item-Project.git
+demo video link -  https://drive.google.com/drive/folders/1UkOGHicPekorgqjanIlLihH9092KUdMM
 
 📌 Problem Statement Employees in the organization need a quick and efficient way to request laptops for work. The current process is manual, inconsistent, and prone to delays due to a lack of dynamic form behavior and validation. To streamline this, a Service Catalog item is developed in ServiceNow, enabling users to easily request laptops with guided inputs and efficient approval workflows.
 
